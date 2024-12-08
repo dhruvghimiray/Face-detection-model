@@ -22,3 +22,13 @@
 !/data/train/labels/
 !/data/test/labels/
 !/data/val/labels/
+
+# aug data ignoring
+
+/aug_data/train/images/*
+/aug_data/test/images/*
+/aug_data/val/images/*
+
+/aug_data/train/labels/*
+/aug_data/test/labels/*
+/aug_data/val/labels/*
