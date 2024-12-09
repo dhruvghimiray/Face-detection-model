@@ -2,6 +2,7 @@
 /data/labels/*
 
 /logs
+/models/*
 
 !/data/images/
 !/data/labels/
